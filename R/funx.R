@@ -6,6 +6,6 @@
 #' @export
 #'
 #' @examples
-test<-function(x) {
+testme<-function(x) {
   x*2
 }
